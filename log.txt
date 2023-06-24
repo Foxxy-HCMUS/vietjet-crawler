@@ -1,0 +1,3 @@
+- Cập nhật ngày 20, 21/4/2023 update trường hợp các chuyến bay hết chỗ và lấy được toàn bộ muibox.
+- Cập nhật ngày 24/6/2023 update tắt quảng cáo mới (2 quảng cáo), accept cookie, thuế phí bị tính riêng.
+
