@@ -15,15 +15,9 @@ Before running the script, make sure you have the following installed:
 
 1. Clone this repository or download the notebook `vietjet_crawler.ipynb`.
 
-2. Install the required dependencies by running the following command:
+2. Run the notebook `vietjet_crawler.ipynb`.
 
-   ````
-   pip install -r requirements.txt
-   ```
-
-   ````
-
-3. Sit back and relax while the script automates the process of navigating to the Vietjet website, searching for flights, and extracting the flight details. The results will be displayed in the console and saved in a CSV file named `flight_details.csv`.
+3. Sit back and relax while the script automates the process of navigating to the Vietjet website, searching for flights, and extracting the flight details. The results will be displayed in the console and saved in a CSV file named `{datetime}.csv`.
 
 ## Notes
 
