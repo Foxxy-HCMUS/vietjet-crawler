@@ -13,9 +13,9 @@ Before running the script, make sure you have the following installed:
 
 ## Usage
 
-1. Clone this repository or download the script `vietjet_crawler.py`.
+1. Clone this repository or download the notebook `vietjet_crawler.ipynb`.
 
-1. Install the required dependencies by running the following command:
+2. Install the required dependencies by running the following command:
 
    ````
    pip install -r requirements.txt
@@ -23,21 +23,7 @@ Before running the script, make sure you have the following installed:
 
    ````
 
-1. Download the appropriate ChromeDriver version from the [official website](https://sites.google.com/a/chromium.org/chromedriver/downloads) based on your Chrome browser version. Make sure to place the `chromedriver` executable in the same directory as the `vietjet_crawler.py` script.
-
-1. Open the `vietjet_crawler.py` script in a text editor and modify the following variables:
-
-   - `DEPARTURE_CITY`: The departure city for the flight search.
-   - `ARRIVAL_CITY`: The arrival city for the flight search.
-   - `DEPARTURE_DATE`: The departure date for the flight search in the format "YYYY-MM-DD".
-
-1. Run the script using the following command:
-
-   ```
-   python vietjet_crawler.py
-   ```
-
-1. Sit back and relax while the script automates the process of navigating to the Vietjet website, searching for flights, and extracting the flight details. The results will be displayed in the console and saved in a CSV file named `flight_details.csv`.
+3. Sit back and relax while the script automates the process of navigating to the Vietjet website, searching for flights, and extracting the flight details. The results will be displayed in the console and saved in a CSV file named `flight_details.csv`.
 
 ## Notes
 
